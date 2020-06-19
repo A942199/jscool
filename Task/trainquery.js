@@ -28,8 +28,8 @@ cron "04 00 * * *" script-path=https://raw.githubusercontent.com/Sunert/Scripts/
 -----------------
 
  */
-const leftstation ='北京'  //出发地
-const tostation = '上海'   //目的地
+const leftstation ='三门峡'  //出发地
+const tostation = '郑州'   //目的地
 const purpose = 'ADULT'   //乘客类型，'ADULT'是成人，'0X00'是学生
 const leftdate = '2020-06-30' //出发日期
 const K = ' 1 '  //车次序号!!
